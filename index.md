@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
+title: Yan Fu
+email: yan.fu@epfl.ch
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: 
+    text: 
 ---
-# Wode __Ni__
+# Yan __FU__
 
 <!--
 include contact information from the front matter
@@ -19,26 +19,19 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __École polytechnique fédérale de Lausanne__ `2018.9 -`
 ```
-Pittsburgh, PA
+Lausanne, Switzerland
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Master in Electrical Engineering
+- 
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Shanghai Jiaotong University__ `2014.9 - 2018.7`
 ```
-New York, NY
+Shanghai, China
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Biomedical Engineering, _Magna Cum Laude_
+- Graduation with Honors from Shanghai City
 
 ## Publications
 
